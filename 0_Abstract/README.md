@@ -1,1 +1,4 @@
+<h1> Abstract </h1>
 
+
+The STM32F407VG-Discovery board is used to implement a car wiper control system in this project. An electric motor drives the wipers on the windshield. The wiper arms are moved by an electric motor connected to a worm gear that provides the necessary force to a long rod. A wiper is a vital component that removes rainfall or any other liquid from the windscreen of a vehicle. The previous method required manual wiper activation, and raising the wiper was a tough task. As a result, this strategy is suggested as a solution to these problems. The project's purpose is to provide automated transmission to older cars in order to improve their systems. wiping system, to improve the system by adding a sensor and an actuator, and to develop a basic software that would function seamlessly with the framework. The principle of this proposed wiper system is similar to that of other existing conventional wipers.
