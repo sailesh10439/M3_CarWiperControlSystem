@@ -1,7 +1,7 @@
 
 <h1> OUTPUTS: </h1>
 
-1. Push Button and hold it for two seconds.
+1.Push Button and hold it for two seconds.
 
 
 ![OUTPUT-1](https://user-images.githubusercontent.com/101562643/168225720-9d5b2ed9-0354-4d92-b20a-40496dfb7f81.png)
@@ -9,7 +9,7 @@
 
 
 
-2. Wiper speed :- low
+2.Wiper speed :- low
 
 
 ![OUTPUT-2](https://user-images.githubusercontent.com/101562643/168225894-fc116685-d2f4-47ee-9e17-481821b78870.png)
