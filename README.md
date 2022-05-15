@@ -1,4 +1,4 @@
-# M3_CarWiperSystem
+# M3_CarWiperControlSystem
 
 | Codacy | Codiga    | Codiga | Build | CppCheck |
 | :----- | :-------- | :----- | :---- | :------- |
