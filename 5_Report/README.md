@@ -101,7 +101,22 @@ In general, car wipers are controlled by the stalk on the right side of the stee
 - Ethical Pressure.
 - Econimical Crisis.
 
+<h2> STM32F407 DISCOVERY BOARD </h2>
 
+This project provides practically all of the necessary information to get started with the STM32F407 Discovery Board, as well as driver code development.
+
+- STM32F4 DISCOVERY kit was used; for further details, see STM32F4 DISCOVERY kit.
+- STM32CubeIDE is a software tool; for further details, go to STM32CubeIDE.
+- Because this microcontroller has many sophisticated functions, and the main goal of this project is to obtain all fundamental insights, just the needed functionalities are introduced during driver creation, and other complex functionality is left out. In the future, I may upgrade the driver and additional features.
+
+
+![Schematic diagram](https://user-images.githubusercontent.com/101562643/168474421-546e9aaf-3c4e-46f8-a1c4-65d04af17ce4.png)
+
+
+
+The STM32F407 Discovery board is powered by an STM32F407VGT6 Microcontroller with an ARM Cortex-M4F Processor that can run at up to 168MHz. This MCU has GPIO ports, TIMERS, ADCs, DACs, Flash Memory, SRAM, SPI, UART, and other peripherals. BUS-Interface is used to communicate between the processor and peripherals. There are three buses to choose from.
+
+I-BUS (Instruction Bus) D-BUS (Data Bus) S-BUS (System Bus) I-BUS The Instruction bus of the Cortex®-M4 with FPU (Floating point unit) core is connected to the BusMatrix through this bus. The core uses this bus to get instructions. The memory carrying code (internal Flash memory/SRAM or external memories through the FSMC/FMC) is the bus's target.
 
 <h2> HIGH LEVEL REQUIREMENTS: </h2>
 
