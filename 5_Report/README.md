@@ -135,6 +135,15 @@ In general, car wipers are controlled by the stalk on the right side of the stee
 ![BLOCKDIAGRAM](https://user-images.githubusercontent.com/101562643/168219110-1b48449c-64df-49f8-91d3-42ef72dfc5d8.png)
 
 
+
+<h2> SCHEMATIC DIAGRAM <h2>
+  
+  
+  
+  ![Schematic diagram](https://user-images.githubusercontent.com/101562643/168474421-546e9aaf-3c4e-46f8-a1c4-65d04af17ce4.png)
+
+  
+  
 <h2> TESTCASES: </h2>
 
 <h3> HIGH LEVEL TESTCASE: </h3>
